@@ -1,0 +1,35 @@
+name: Daily Global Market Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Beijing 08:30 and 15:30 on weekdays equals UTC 00:30 and 07:30.
+    - cron: "30 0 * * 1-5"
+    - cron: "30 7 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  run-radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run radar
+        run: python main.py
+
+      - name: Commit report
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update global market radar report"
+          file_pattern: "data/reports/*.md data/raw/*.json data/processed/*.json"

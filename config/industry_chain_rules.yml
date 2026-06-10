@@ -1,0 +1,142 @@
+crude_oil:
+  name: 原油
+  aliases: [crude, oil, brent, wti, opec]
+  upstream_impact: [油气开采, 油服工程]
+  midstream_impact: [炼化, 化工原料, 成品油流通]
+  downstream_impact: [航空, 物流, 汽车, 化纤, 塑料制品]
+  positive_sectors: [油气开采, 油服工程, 煤化工替代]
+  negative_sectors: [航空, 物流, 化纤, 塑料制品]
+  neutral_sectors: [炼化]
+  chain_analysis: 原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
+
+copper:
+  name: 铜
+  aliases: [copper, lme copper, copper price]
+  upstream_impact: [铜矿, 有色资源]
+  midstream_impact: [铜冶炼, 铜加工, 铜箔]
+  downstream_impact: [电力设备, 家电, PCB, 新能源车零部件]
+  positive_sectors: [铜矿, 有色资源, 再生铜]
+  negative_sectors: [家电, PCB, 新能源车零部件, 电力设备]
+  neutral_sectors: [铜冶炼, 铜加工, 铜箔]
+  chain_analysis: 铜价上涨时，上游铜矿和有色资源的利润弹性最直接；中游冶炼、铜加工和铜箔要看库存、加工费与成本转嫁能力；下游家电、PCB、新能源车零部件、电力设备可能承受材料成本压力。情绪影响常在1-3天出现，现货和订单价格约1-2周体现，经营和毛利率影响通常需1-3个月，财报确认多在1个季度以上。
+
+aluminum:
+  name: 铝
+  aliases: [aluminum, aluminium, alumina]
+  upstream_impact: [铝土矿, 氧化铝, 电解铝]
+  midstream_impact: [铝加工, 铝型材, 铝箔]
+  downstream_impact: [汽车轻量化, 光伏边框, 包装, 建筑型材]
+  positive_sectors: [氧化铝, 电解铝, 煤电铝一体化]
+  negative_sectors: [包装, 建筑型材, 汽车零部件]
+  neutral_sectors: [铝加工, 铝箔]
+  chain_analysis: 铝价上涨利好资源和低成本电解铝产能，但中游加工利润取决于加工费和库存；下游汽车轻量化、包装、建筑型材等面临成本抬升。若上涨来自电力约束或供给扰动，上游弹性更强；若来自需求复苏，则产业链承接能力更好。
+
+lithium:
+  name: 锂
+  aliases: [lithium, spodumene, lithium carbonate]
+  upstream_impact: [锂矿, 盐湖提锂]
+  midstream_impact: [碳酸锂, 氢氧化锂, 正极材料]
+  downstream_impact: [动力电池, 储能电池, 新能源车]
+  positive_sectors: [锂矿, 盐湖提锂]
+  negative_sectors: [动力电池, 储能电池, 新能源车]
+  neutral_sectors: [正极材料]
+  chain_analysis: 锂价上涨通常改善锂矿和盐湖提锂利润，但压缩电池与整车成本空间；正极材料企业需看库存位置和价格传导机制。若上涨由补库驱动，持续性依赖终端排产；若由供给扰动驱动，上游弹性更集中。
+
+gold:
+  name: 黄金
+  aliases: [gold, bullion, safe haven]
+  upstream_impact: [黄金矿山]
+  midstream_impact: [贵金属冶炼, 黄金珠宝]
+  downstream_impact: [投资需求, 消费金饰]
+  positive_sectors: [黄金矿山, 贵金属]
+  negative_sectors: [黄金珠宝零售]
+  neutral_sectors: [银行贵金属业务]
+  chain_analysis: 金价上涨通常对应降息预期、避险需求或美元走弱，黄金矿山利润弹性直接；黄金珠宝零售可能因终端价格抬升承压。需同时观察实际利率、美元指数和央行购金节奏。
+
+natural_gas:
+  name: 天然气
+  aliases: [natural gas, lng, gas price]
+  upstream_impact: [天然气开采, LNG资源]
+  midstream_impact: [LNG接收站, 城燃, 管网]
+  downstream_impact: [化肥, 玻璃, 陶瓷, 工业燃料]
+  positive_sectors: [天然气开采, LNG贸易]
+  negative_sectors: [化肥, 玻璃, 陶瓷]
+  neutral_sectors: [城燃]
+  chain_analysis: 天然气价格上涨利好资源端和贸易端，但城燃受价格管制与顺价能力影响较大；化肥、玻璃、陶瓷等工业燃料用户成本承压。欧洲库存、天气和地缘扰动会放大短期价格波动。
+
+hbm:
+  name: HBM
+  aliases: [hbm, high bandwidth memory, advanced memory]
+  upstream_impact: [存储晶圆, 封装材料, 设备零部件]
+  midstream_impact: [先进封装, 存储模组, 测试设备]
+  downstream_impact: [AI GPU, AI服务器, 云计算]
+  positive_sectors: [存储, 先进封装, 半导体设备, 测试设备]
+  negative_sectors: [普通服务器, 成本敏感云服务]
+  neutral_sectors: [PCB, 散热]
+  chain_analysis: HBM需求增强意味着AI加速卡物料价值上移，存储厂、先进封装、测试设备和材料环节受益；下游云厂商需承担更高硬件成本，但若算力租赁价格坚挺可向客户传导。持续性取决于GPU供给、HBM良率和CapEx兑现。
+
+ai_server:
+  name: AI服务器
+  aliases: [ai server, gpu server, rack-scale, accelerator]
+  upstream_impact: [GPU, HBM, PCB, 电源, 散热]
+  midstream_impact: [服务器整机, 机柜, 液冷]
+  downstream_impact: [云计算, 模型训练, 推理服务]
+  positive_sectors: [服务器, PCB, 液冷, 电源设备, 光模块]
+  negative_sectors: [传统服务器]
+  neutral_sectors: [IDC运营]
+  chain_analysis: AI服务器需求增长会拉动GPU、HBM、高速PCB、电源、散热和光模块；中游整机厂受益于订单与交付，但利润率取决于核心部件供给和客户议价。下游云计算需观察算力出租价格、利用率和资本开支强度。
+
+data_center_power:
+  name: 数据中心电力
+  aliases: [data center power, electricity demand, grid, power demand]
+  upstream_impact: [电力设备, 电网投资, 发电侧]
+  midstream_impact: [变压器, 储能, UPS, 配电设备]
+  downstream_impact: [IDC, 云计算, AI训练]
+  positive_sectors: [电力设备, 变压器, 储能, UPS, 温控]
+  negative_sectors: [高耗能IDC]
+  neutral_sectors: [云计算]
+  chain_analysis: AI数据中心扩张会抬升电力和配套基础设施需求，电网设备、变压器、储能、UPS和温控受益；高耗能IDC若电价上行或并网受限，利润率可能受压。观察重点是电力审批、PUE要求和云厂商资本开支。
+
+semiconductor_equipment:
+  name: 半导体设备
+  aliases: [asml, lithography, semiconductor equipment, etch, deposition]
+  upstream_impact: [精密零部件, 光学元件, 真空系统]
+  midstream_impact: [光刻机, 刻蚀设备, 薄膜沉积, 量测设备]
+  downstream_impact: [晶圆厂, 先进制程, 成熟制程]
+  positive_sectors: [半导体设备, 半导体材料, 精密零部件]
+  negative_sectors: [受限晶圆厂]
+  neutral_sectors: [晶圆代工]
+  chain_analysis: 半导体设备消息通常影响国产替代、晶圆厂CapEx和先进制程预期。上游精密零部件、光学和真空系统受订单拉动；中游设备公司看招标和验收；下游晶圆厂受制裁、交期和资金开支约束。
+
+shipping:
+  name: 航运
+  aliases: [shipping, freight, container, tanker, red sea]
+  upstream_impact: [船舶, 港口, 燃油]
+  midstream_impact: [集运, 油运, 干散货]
+  downstream_impact: [出口制造, 跨境电商, 零售]
+  positive_sectors: [航运, 港口, 造船]
+  negative_sectors: [出口制造, 跨境电商]
+  neutral_sectors: [物流]
+  chain_analysis: 运价上涨利好航运公司和部分港口，但出口制造和跨境电商面临物流成本和交付周期压力。地缘扰动导致绕航时，集运和油运弹性更强；需求复苏驱动时，港口吞吐和外贸链条更值得跟踪。
+
+usd:
+  name: 美元指数
+  aliases: [usd, dollar, dxy, dollar index]
+  upstream_impact: [美元资产, 大宗商品计价]
+  midstream_impact: [进口成本, 出口结算, 汇兑损益]
+  downstream_impact: [航空, 造纸, 出口链, 黄金]
+  positive_sectors: [出口链, 银行外汇业务]
+  negative_sectors: [航空, 造纸, 美元负债较高企业, 黄金]
+  neutral_sectors: [跨境电商]
+  chain_analysis: 美元走强通常压制以美元计价的大宗商品和黄金，同时增加进口成本与美元债压力；出口链可能因人民币相对走弱获得结算优势。需观察人民币中间价、外资流向和企业套保情况。
+
+interest_rate:
+  name: 美联储利率
+  aliases: [fed rate, interest rate, rate cut, rate hike, treasury yield]
+  upstream_impact: [美元流动性, 美债收益率]
+  midstream_impact: [全球估值, 融资成本, 风险偏好]
+  downstream_impact: [成长股, 黄金, 有色, 银行, 房地产链]
+  positive_sectors: [黄金, 成长风格, 创新药, 半导体]
+  negative_sectors: [高负债行业, 房地产链]
+  neutral_sectors: [银行]
+  chain_analysis: 降息预期升温有利于全球风险偏好和成长股估值，也通常支撑黄金；加息或高利率维持会压制高估值资产和高负债行业。A股映射需结合北向资金、人民币汇率和国内政策节奏。

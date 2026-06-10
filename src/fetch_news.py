@@ -37,7 +37,9 @@ def _entry_to_item(entry: Any, source: dict[str, str]) -> dict[str, str]:
 def _text(node: ElementTree.Element | None, name: str) -> str:
     if node is None:
         return ""
-    child = node.find(name) or node.find(f"{{*}}{name}")
+    child = node.find(name)
+    if child is None:
+        child = node.find(f"{{*}}{name}")
     return "".join(child.itertext()).strip() if child is not None else ""
 
 

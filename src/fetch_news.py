@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import logging
+import socket
 from datetime import datetime
 from typing import Any
 from urllib.request import Request, urlopen
@@ -15,6 +16,8 @@ from .utils import DATA_DIR, parse_datetime, save_json
 
 
 LOGGER = logging.getLogger(__name__)
+RSS_TIMEOUT_SECONDS = 20
+socket.setdefaulttimeout(RSS_TIMEOUT_SECONDS)
 
 RSS_SOURCES = [
     {"name": "Reuters Markets", "url": "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best", "raw_category": "markets"},
@@ -45,7 +48,7 @@ def _text(node: ElementTree.Element | None, name: str) -> str:
 
 def _fetch_with_stdlib(source: dict[str, str], limit_per_source: int) -> list[dict[str, str]]:
     request = Request(source["url"], headers={"User-Agent": "global-market-radar/0.1"})
-    with urlopen(request, timeout=20) as response:
+    with urlopen(request, timeout=RSS_TIMEOUT_SECONDS) as response:
         root = ElementTree.fromstring(response.read())
     entries = root.findall(".//item") or root.findall(".//{*}entry")
     items: list[dict[str, str]] = []
@@ -67,7 +70,7 @@ def fetch_rss_news(sources: list[dict[str, str]] | None = None, limit_per_source
     for source in sources or RSS_SOURCES:
         try:
             if feedparser is not None:
-                feed = feedparser.parse(source["url"])
+                feed = feedparser.parse(source["url"], request_headers={"User-Agent": "global-market-radar/0.1"})
                 if getattr(feed, "bozo", 0):
                     LOGGER.warning("RSS parse warning for %s: %s", source["name"], getattr(feed, "bozo_exception", "unknown"))
                 for entry in feed.entries[:limit_per_source]:

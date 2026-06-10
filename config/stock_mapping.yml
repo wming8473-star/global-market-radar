@@ -1,0 +1,152 @@
+油气开采:
+  a_share_sector: 石油石化
+  representative_stocks: [中国石油, 中国海油, 中国石化]
+  note: 关注油价、产量、桶油成本和资本开支。
+油服工程:
+  a_share_sector: 油服设备
+  representative_stocks: [中海油服, 海油工程, 石化油服]
+  note: 观察油公司资本开支和海外订单。
+铜矿:
+  a_share_sector: 工业金属
+  representative_stocks: [紫金矿业, 江西铜业, 云南铜业]
+  note: 铜价弹性较强，但需看矿山成本和产量。
+有色资源:
+  a_share_sector: 有色金属
+  representative_stocks: [洛阳钼业, 铜陵有色, 西部矿业]
+  note: 资源品价格和库存周期共同决定利润弹性。
+铜加工:
+  a_share_sector: 铜加工
+  representative_stocks: [海亮股份, 博威合金]
+  note: 加工费和库存管理比绝对铜价更关键。
+铜箔:
+  a_share_sector: 电子材料
+  representative_stocks: [诺德股份, 嘉元科技]
+  note: 同时受铜价、电池需求和加工费影响。
+电力设备:
+  a_share_sector: 电网设备
+  representative_stocks: [思源电气, 特变电工, 平高电气]
+  note: 观察电网投资、海外订单和原材料成本。
+家电:
+  a_share_sector: 家用电器
+  representative_stocks: [美的集团, 格力电器, 海尔智家]
+  note: 铜铝价格上涨可能带来成本压力。
+PCB:
+  a_share_sector: 电子元件
+  representative_stocks: [沪电股份, 深南电路, 生益科技]
+  note: AI服务器需求和铜价成本需同时观察。
+锂矿:
+  a_share_sector: 能源金属
+  representative_stocks: [天齐锂业, 赣锋锂业, 藏格矿业]
+  note: 价格弹性强，需跟踪碳酸锂现货和排产。
+盐湖提锂:
+  a_share_sector: 能源金属
+  representative_stocks: [盐湖股份, 西藏矿业]
+  note: 关注产能释放和季节性产量。
+动力电池:
+  a_share_sector: 电池
+  representative_stocks: [宁德时代, 亿纬锂能, 国轩高科]
+  note: 原材料上涨可能压缩毛利率，需看价格传导。
+黄金矿山:
+  a_share_sector: 贵金属
+  representative_stocks: [山东黄金, 赤峰黄金, 中金黄金]
+  note: 关注金价、实际利率和矿山成本。
+贵金属:
+  a_share_sector: 贵金属
+  representative_stocks: [紫金矿业, 银泰黄金]
+  note: 避险和降息预期会影响估值。
+天然气开采:
+  a_share_sector: 燃气资源
+  representative_stocks: [新天然气, 蓝焰控股]
+  note: 关注气价和资源储量。
+城燃:
+  a_share_sector: 公用事业
+  representative_stocks: [深圳燃气, 新奥股份]
+  note: 顺价机制决定利润弹性。
+存储:
+  a_share_sector: 半导体存储
+  representative_stocks: [兆易创新, 北京君正, 普冉股份]
+  note: 观察存储周期、价格和国产替代。
+先进封装:
+  a_share_sector: 半导体封测
+  representative_stocks: [长电科技, 通富微电, 华天科技]
+  note: HBM和Chiplet会提升先进封装关注度。
+半导体设备:
+  a_share_sector: 半导体设备
+  representative_stocks: [北方华创, 中微公司, 拓荆科技]
+  note: 观察晶圆厂招标、验收和国产替代进度。
+半导体材料:
+  a_share_sector: 半导体材料
+  representative_stocks: [沪硅产业, 安集科技, 雅克科技]
+  note: 观察晶圆厂稼动率和国产替代。
+测试设备:
+  a_share_sector: 半导体设备
+  representative_stocks: [长川科技, 华峰测控]
+  note: 订单与新产品验证决定业绩兑现节奏。
+服务器:
+  a_share_sector: 算力硬件
+  representative_stocks: [工业富联, 浪潮信息, 中科曙光]
+  note: 关注AI服务器订单、交付和毛利率。
+液冷:
+  a_share_sector: 数据中心温控
+  representative_stocks: [英维克, 高澜股份, 申菱环境]
+  note: AI机柜功率提升会带来温控升级需求。
+电源设备:
+  a_share_sector: 电力电子
+  representative_stocks: [欧陆通, 科华数据]
+  note: 观察高功率服务器电源和UPS需求。
+光模块:
+  a_share_sector: 光通信
+  representative_stocks: [中际旭创, 新易盛, 天孚通信]
+  note: 关注海外云厂商CapEx和800G/1.6T需求。
+变压器:
+  a_share_sector: 电网设备
+  representative_stocks: [金盘科技, 明阳电气, 特变电工]
+  note: 数据中心和海外电网投资共同驱动。
+储能:
+  a_share_sector: 新型储能
+  representative_stocks: [阳光电源, 科士达, 南都电源]
+  note: 关注电力消纳、峰谷价差和订单质量。
+UPS:
+  a_share_sector: 数据中心电源
+  representative_stocks: [科华数据, 科士达]
+  note: 数据中心建设节奏影响订单。
+温控:
+  a_share_sector: 数据中心温控
+  representative_stocks: [英维克, 佳力图]
+  note: 机柜功率密度提升利好液冷和温控。
+航运:
+  a_share_sector: 航运港口
+  representative_stocks: [中远海控, 招商轮船, 中远海能]
+  note: 运价、绕航和供需格局是核心变量。
+港口:
+  a_share_sector: 港口
+  representative_stocks: [上港集团, 宁波港, 青岛港]
+  note: 关注吞吐量和外贸景气。
+造船:
+  a_share_sector: 船舶制造
+  representative_stocks: [中国船舶, 中国重工]
+  note: 订单周期长，需看船价和交付。
+出口链:
+  a_share_sector: 出口制造
+  representative_stocks: [巨星科技, 海兴电力, 匠心家居]
+  note: 汇率利好需结合海外需求。
+航空:
+  a_share_sector: 航空机场
+  representative_stocks: [中国国航, 南方航空, 春秋航空]
+  note: 油价和汇率是重要成本变量。
+造纸:
+  a_share_sector: 轻工制造
+  representative_stocks: [太阳纸业, 博汇纸业]
+  note: 纸浆和汇率影响成本。
+黄金:
+  a_share_sector: 贵金属
+  representative_stocks: [山东黄金, 中金黄金]
+  note: 与美元、实际利率和避险需求相关。
+成长风格:
+  a_share_sector: 成长股
+  representative_stocks: [创业板指, 科创50]
+  note: 利率下行有利估值修复，但仍需盈利支撑。
+创新药:
+  a_share_sector: 医药生物
+  representative_stocks: [恒瑞医药, 百济神州-U, 信达生物]
+  note: 流动性改善有利长久期资产，但研发和商业化仍是核心。

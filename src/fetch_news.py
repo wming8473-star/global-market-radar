@@ -16,7 +16,7 @@ from .utils import DATA_DIR, parse_datetime, save_json
 
 
 LOGGER = logging.getLogger(__name__)
-RSS_TIMEOUT_SECONDS = 20
+RSS_TIMEOUT_SECONDS = 8
 socket.setdefaulttimeout(RSS_TIMEOUT_SECONDS)
 
 RSS_SOURCES = [
@@ -65,9 +65,11 @@ def _fetch_with_stdlib(source: dict[str, str], limit_per_source: int) -> list[di
     return items
 
 
-def fetch_rss_news(sources: list[dict[str, str]] | None = None, limit_per_source: int = 25) -> list[dict[str, str]]:
+def fetch_rss_news(sources: list[dict[str, str]] | None = None, limit_per_source: int = 15) -> list[dict[str, str]]:
     items: list[dict[str, str]] = []
     for source in sources or RSS_SOURCES:
+        before_count = len(items)
+        LOGGER.info("Fetching RSS source: %s", source["name"])
         try:
             if feedparser is not None:
                 feed = feedparser.parse(source["url"], request_headers={"User-Agent": "global-market-radar/0.1"})
@@ -79,6 +81,7 @@ def fetch_rss_news(sources: list[dict[str, str]] | None = None, limit_per_source
                         items.append(item)
             else:
                 items.extend(_fetch_with_stdlib(source, limit_per_source))
+            LOGGER.info("Fetched %s items from %s", len(items) - before_count, source["name"])
         except Exception as exc:
             LOGGER.exception("Failed to fetch %s: %s", source.get("name", source.get("url", "")), exc)
             continue

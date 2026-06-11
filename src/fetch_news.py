@@ -37,6 +37,12 @@ def _entry_to_item(entry: Any, source: dict[str, str]) -> dict[str, str]:
     return {"title": getattr(entry, "title", "").strip(), "summary": getattr(entry, "summary", "").strip(), "url": getattr(entry, "link", "").strip(), "source": source["name"], "published_at": parse_datetime(published), "raw_category": source.get("raw_category", "")}
 
 
+def _download(source: dict[str, str]) -> bytes:
+    request = Request(source["url"], headers={"User-Agent": "global-market-radar/0.1"})
+    with urlopen(request, timeout=RSS_TIMEOUT_SECONDS) as response:
+        return response.read()
+
+
 def _text(node: ElementTree.Element | None, name: str) -> str:
     if node is None:
         return ""
@@ -46,10 +52,8 @@ def _text(node: ElementTree.Element | None, name: str) -> str:
     return "".join(child.itertext()).strip() if child is not None else ""
 
 
-def _fetch_with_stdlib(source: dict[str, str], limit_per_source: int) -> list[dict[str, str]]:
-    request = Request(source["url"], headers={"User-Agent": "global-market-radar/0.1"})
-    with urlopen(request, timeout=RSS_TIMEOUT_SECONDS) as response:
-        root = ElementTree.fromstring(response.read())
+def _parse_with_stdlib(xml_data: bytes, source: dict[str, str], limit_per_source: int) -> list[dict[str, str]]:
+    root = ElementTree.fromstring(xml_data)
     entries = root.findall(".//item") or root.findall(".//{*}entry")
     items: list[dict[str, str]] = []
     for entry in entries[:limit_per_source]:
@@ -65,22 +69,28 @@ def _fetch_with_stdlib(source: dict[str, str], limit_per_source: int) -> list[di
     return items
 
 
+def _parse_feed(xml_data: bytes, source: dict[str, str], limit_per_source: int) -> list[dict[str, str]]:
+    if feedparser is None:
+        return _parse_with_stdlib(xml_data, source, limit_per_source)
+    feed = feedparser.parse(xml_data)
+    if getattr(feed, "bozo", 0):
+        LOGGER.warning("RSS parse warning for %s: %s", source["name"], getattr(feed, "bozo_exception", "unknown"))
+    items: list[dict[str, str]] = []
+    for entry in feed.entries[:limit_per_source]:
+        item = _entry_to_item(entry, source)
+        if item["title"] and item["url"]:
+            items.append(item)
+    return items
+
+
 def fetch_rss_news(sources: list[dict[str, str]] | None = None, limit_per_source: int = 15) -> list[dict[str, str]]:
     items: list[dict[str, str]] = []
     for source in sources or RSS_SOURCES:
         before_count = len(items)
         LOGGER.info("Fetching RSS source: %s", source["name"])
         try:
-            if feedparser is not None:
-                feed = feedparser.parse(source["url"], request_headers={"User-Agent": "global-market-radar/0.1"})
-                if getattr(feed, "bozo", 0):
-                    LOGGER.warning("RSS parse warning for %s: %s", source["name"], getattr(feed, "bozo_exception", "unknown"))
-                for entry in feed.entries[:limit_per_source]:
-                    item = _entry_to_item(entry, source)
-                    if item["title"] and item["url"]:
-                        items.append(item)
-            else:
-                items.extend(_fetch_with_stdlib(source, limit_per_source))
+            xml_data = _download(source)
+            items.extend(_parse_feed(xml_data, source, limit_per_source))
             LOGGER.info("Fetched %s items from %s", len(items) - before_count, source["name"])
         except Exception as exc:
             LOGGER.exception("Failed to fetch %s: %s", source.get("name", source.get("url", "")), exc)

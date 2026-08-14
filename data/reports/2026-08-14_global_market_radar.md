@@ -5,17 +5,17 @@
 > 本报告基于公开 RSS 信息和本地规则生成，只做产业链观察和风险提示，不构成投资建议。
 
 ## 一、高影响事件
-### Trump-linked oil venture delays Greenland drilling plans after government warning
-- 来源：CNBC World | 时间：2026-08-13T16:06:38+00:00 | 分类：地缘 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html
-- 摘要：原文要点：Greenland Energy Co. and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.
-- 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
-- 正向方向：油气开采、油服工程、煤化工替代
-- 负向方向：航空、物流、化纤、塑料制品
+### How a niche copper trade became a real-time gauge of Trump’s next tariff move
+- 来源：CNBC World | 时间：2026-08-14T05:00:01+00:00 | 分类：金属 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html
+- 摘要：原文要点：The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.
+- 产业链推演：铜：铜价上涨时，上游铜矿和有色资源的利润弹性最直接；中游冶炼、铜加工和铜箔要看库存、加工费与成本转嫁能力；下游家电、PCB、新能源车零部件、电力设备可能承受材料成本压力。情绪影响常在1-3天出现，现货和订单价格约1-2周体现，经营和毛利率影响通常需1-3个月，财报确认多在1个季度以上。
+- 正向方向：铜矿、有色资源、再生铜
+- 负向方向：家电、PCB、新能源车零部件、电力设备
 - 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
-- A股观察映射：油气开采、油服工程、航空
-- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代的情绪强弱，同时跟踪航空、物流、化纤、塑料制品是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
+- A股观察映射：铜矿、有色资源、家电、PCB、电力设备、铜加工、铜箔
+- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内铜矿、有色资源、再生铜的情绪强弱，同时跟踪家电、PCB、新能源车零部件、电力设备是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
 
 ### Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.
 - 来源：MarketWatch | 时间：2026-08-13T22:05:00+00:00 | 分类：AI算力 | 影响级别：高
@@ -27,6 +27,18 @@
 - 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
 - A股观察映射：半导体设备、半导体材料
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内半导体设备、半导体材料、精密零部件的情绪强弱，同时跟踪受限晶圆厂是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
+
+### Avino Silver & Gold Mines Ltd. Q2 2026 Earnings Call Summary
+- 来源：Yahoo Finance | 时间：2026-08-12T21:20:45+00:00 | 分类：金属 | 影响级别：高
+- 链接：https://finance.yahoo.com/markets/stocks/articles/avino-silver-gold-mines-ltd-212045885.html
+- 摘要：原文要点：Avino Silver & Gold Mines Ltd. Q2 2026 Earnings Call Summary
+- 产业链推演：黄金：金价上涨通常对应降息预期、避险需求或美元走弱，黄金矿山利润弹性直接；黄金珠宝零售可能因终端价格抬升承压。需同时观察实际利率、美元指数和央行购金节奏。
+- 正向方向：黄金矿山、贵金属
+- 负向方向：黄金珠宝零售
+- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
+- A股观察映射：黄金矿山、贵金属
+- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内黄金矿山、贵金属的情绪强弱，同时跟踪黄金珠宝零售是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
 
 ### NVIDIA AI Factory Compute Is Becoming an Investable Asset Class
@@ -79,42 +91,6 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### Bitcoin and ethereum prices today, Wednesday, August 12, 2026:  Crypto prices rise with CPI report on deck
-- 来源：Yahoo Finance | 时间：2026-08-12T12:10:22+00:00 | 分类：宏观 | 影响级别：中
-- 链接：https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html
-- 摘要：原文要点：Bitcoin and ethereum prices today, Wednesday, August 12, 2026:  Crypto prices rise with CPI report on deck
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Stocks Trading Higher on Favorable CPI Report and Positive AI News
-- 来源：Yahoo Finance | 时间：2026-08-12T15:02:56+00:00 | 分类：宏观 | 影响级别：中
-- 链接：https://finance.yahoo.com/markets/stocks/articles/stocks-trading-higher-favorable-cpi-150256906.html
-- 摘要：原文要点：Stocks Trading Higher on Favorable CPI Report and Positive AI News
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease
-- 来源：Yahoo Finance | 时间：2026-08-12T11:56:35+00:00 | 分类：宏观 | 影响级别：中
-- 链接：https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-12-2026-surpassing-66-as-expectations-for-july-inflation-ease-115635475.html
-- 摘要：原文要点：Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
 ### Reddit stock jumps on inclusion in S&P 500
 - 来源：CNBC Technology | 时间：2026-08-13T23:04:21+00:00 | 分类：海外股市 | 影响级别：低
 - 链接：https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html
@@ -141,6 +117,42 @@
 
 
 ## 三、AI算力与半导体
+### AI’s infrastructure boom is getting more leveraged — and harder to track
+- 来源：CNBC World | 时间：2026-08-14T08:29:50+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html
+- 摘要：原文要点：AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### ‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands
+- 来源：CNBC World | 时间：2026-08-14T08:08:16+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html
+- 摘要：原文要点：Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Trump ally Nigel Farage wins special election to return to UK parliament
+- 来源：CNBC World | 时间：2026-08-14T08:24:42+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html
+- 摘要：原文要点：Farage stepped down last month to trigger the vote, branding it a fight against "the establishment," amid controversy over his finances.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
 ### From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore
 - 来源：CNBC World | 时间：2026-08-14T00:09:11+00:00 | 分类：AI算力 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html
@@ -153,46 +165,22 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
+### Tata chairman’s shock exit move puts JLR owner's bets on chips, iPhones and Air India at risk
+- 来源：CNBC World | 时间：2026-08-14T07:39:08+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/08/14/tata-chairman-resignation-chandrasekaran-chips-iphone-air-india.html
+- 摘要：原文要点：Tata Sons Chairman's sudden exit plan has sparked concerns over the Indian multinational's commitment to invest big bucks in projects of national importance.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
 ### Uber partners with China's Pony.ai for 2,000 robotaxis in Europe
 - 来源：CNBC World | 时间：2026-08-14T01:02:39+00:00 | 分类：AI算力 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html
 - 摘要：原文要点：The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### In pictures: Europe's best solar eclipse since 1999
-- 来源：CNBC World | 时间：2026-08-13T10:06:50+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/08/13/europe-solar-eclipse-iceland-spain.html
-- 摘要：原文要点：A total solar eclipse crossed Iceland and Spain on Aug. 12, while much of Europe saw a partial eclipse and businesses benefited from demand.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Solar eclipse drives Europe hotel prices to over $1,000 a night
-- 来源：CNBC World | 时间：2026-08-12T13:40:40+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html
-- 摘要：原文要点：Eclipse demand pushed some Spain and Iceland stays above $1,000 a night, while Iceland hotels cut prices sharply closer to Aug. 12.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Why the historic U.S.-Japan intervention has failed to halt the yen’s slide
-- 来源：CNBC World | 时间：2026-08-12T07:20:31+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html
-- 摘要：原文要点：The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -225,40 +213,38 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### China’s answer to Boeing and Airbus makes first international flight — could COMAC challenge the aviation duopoly?
-- 来源：CNBC World | 时间：2026-08-12T13:15:36+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/08/12/china-comac-boeing-airbus.html
-- 摘要：原文要点：China’s C919 has made its first scheduled international commercial flight, a milestone in COMAC’s bid to challenge Boeing and Airbus globally.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
 
 ## 四、能源与大宗商品
-暂无高相关消息。
+### How a niche copper trade became a real-time gauge of Trump’s next tariff move
+- 来源：CNBC World | 时间：2026-08-14T05:00:01+00:00 | 分类：金属 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html
+- 摘要：原文要点：The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.
+- 产业链推演：铜：铜价上涨时，上游铜矿和有色资源的利润弹性最直接；中游冶炼、铜加工和铜箔要看库存、加工费与成本转嫁能力；下游家电、PCB、新能源车零部件、电力设备可能承受材料成本压力。情绪影响常在1-3天出现，现货和订单价格约1-2周体现，经营和毛利率影响通常需1-3个月，财报确认多在1个季度以上。
+- 正向方向：铜矿、有色资源、再生铜
+- 负向方向：家电、PCB、新能源车零部件、电力设备
+- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
+- A股观察映射：铜矿、有色资源、家电、PCB、电力设备、铜加工、铜箔
+- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内铜矿、有色资源、再生铜的情绪强弱，同时跟踪家电、PCB、新能源车零部件、电力设备是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
+
+### Avino Silver & Gold Mines Ltd. Q2 2026 Earnings Call Summary
+- 来源：Yahoo Finance | 时间：2026-08-12T21:20:45+00:00 | 分类：金属 | 影响级别：高
+- 链接：https://finance.yahoo.com/markets/stocks/articles/avino-silver-gold-mines-ltd-212045885.html
+- 摘要：原文要点：Avino Silver & Gold Mines Ltd. Q2 2026 Earnings Call Summary
+- 产业链推演：黄金：金价上涨通常对应降息预期、避险需求或美元走弱，黄金矿山利润弹性直接；黄金珠宝零售可能因终端价格抬升承压。需同时观察实际利率、美元指数和央行购金节奏。
+- 正向方向：黄金矿山、贵金属
+- 负向方向：黄金珠宝零售
+- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
+- A股观察映射：黄金矿山、贵金属
+- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内黄金矿山、贵金属的情绪强弱，同时跟踪黄金珠宝零售是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
 
 
 ## 五、地缘风险
 ### U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln
-- 来源：CNBC World | 时间：2026-08-14T01:52:07+00:00 | 分类：地缘 | 影响级别：中
+- 来源：CNBC World | 时间：2026-08-14T07:30:30+00:00 | 分类：地缘 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html
 - 摘要：原文要点："It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz," Bessent said.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### CNBC Daily Open: An 'indefinite' war, and a record-breaking rally
-- 来源：CNBC World | 时间：2026-08-14T01:38:34+00:00 | 分类：地缘 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/08/14/us-iran-war-hormuz-ai-south-korea-openai-anthropic-meta-.html
-- 摘要：原文要点：Hegseth says the U.S. Navy can blockade Iran for as long as it takes, while Wall Street responded by sending the S&amp;P 500 to another day of record high.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -279,17 +265,29 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### Trump-linked oil venture delays Greenland drilling plans after government warning
-- 来源：CNBC World | 时间：2026-08-13T16:06:38+00:00 | 分类：地缘 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html
-- 摘要：原文要点：Greenland Energy Co. and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.
-- 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
-- 正向方向：油气开采、油服工程、煤化工替代
-- 负向方向：航空、物流、化纤、塑料制品
-- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
-- A股观察映射：油气开采、油服工程、航空
-- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代的情绪强弱，同时跟踪航空、物流、化纤、塑料制品是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
+### CNBC Daily Open: Washington tightens squeeze on the Iranian economy
+- 来源：CNBC World | 时间：2026-08-14T07:19:55+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/08/14/us-trump-iran-hormuz-hegseth-bessent-tariffs-trade.html
+- 摘要：原文要点：The U.S. seeks to escalate pressure from blockade to financial isolation, while Iran races to build a way around it.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on
+- 来源：CNBC World | 时间：2026-08-13T16:38:06+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html
+- 摘要：原文要点：Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
 ### Cramer says investors shouldn't let past market crashes scare them out of today’s winners
 - 来源：CNBC Technology | 时间：2026-08-13T22:27:25+00:00 | 分类：地缘 | 影响级别：中
@@ -329,7 +327,7 @@
 
 
 ## 六、A股可能受影响方向
-油气开采、油服工程、煤化工替代、航空、物流、化纤、塑料制品、炼化、半导体设备、半导体材料、精密零部件、受限晶圆厂、晶圆代工、黄金矿山、贵金属、黄金珠宝零售、银行贵金属业务、电力设备、变压器、储能、UPS、温控、高耗能IDC、云计算
+铜矿、有色资源、再生铜、家电、PCB、新能源车零部件、电力设备、铜冶炼、铜加工、铜箔、半导体设备、半导体材料、精密零部件、受限晶圆厂、晶圆代工、黄金矿山、贵金属、黄金珠宝零售、银行贵金属业务、变压器、储能、UPS、温控、高耗能IDC、云计算
 
 ## 七、明日观察重点
 - 验证国际期货价格、美元指数、美债收益率与A股相关板块是否同向确认。

@@ -5,8 +5,8 @@
 > 本报告基于公开 RSS 信息和本地规则生成，只做产业链观察和风险提示，不构成投资建议。
 
 ## 一、高影响事件
-### Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy
-- 来源：CNBC World | 时间：2026-11-02T05:04:26+00:00 | 分类：地缘 | 影响级别：高
+### Crude oil prices plunge more than 7% on Iran peace talk hopes ahead of U.S. midterms
+- 来源：CNBC World | 时间：2026-11-02T17:14:53+00:00 | 分类：能源 | 影响级别：高
 - 链接：https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html
 - 摘要：原文要点：Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions
 - 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
@@ -15,21 +15,31 @@
 - 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
 - A股观察映射：油气开采、油服工程、航空
 - 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代的情绪强弱，同时跟踪航空、物流、化纤、塑料制品是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
+
+### Defense, healthcare, crypto and AI: How the midterm election could affect stocks
+- 来源：CNBC World | 时间：2026-11-02T13:23:58+00:00 | 分类：宏观 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html
+- 摘要：原文要点：Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.
+- 产业链推演：美元指数：美元走强通常压制以美元计价的大宗商品和黄金，同时增加进口成本与美元债压力；出口链可能因人民币相对走弱获得结算优势。需观察人民币中间价、外资流向和企业套保情况。
+- 正向方向：出口链、银行外汇业务
+- 负向方向：航空、造纸、美元负债较高企业、黄金
+- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
+- A股观察映射：出口链、航空、造纸、黄金
+- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内出口链、银行外汇业务的情绪强弱，同时跟踪航空、造纸、美元负债较高企业、黄金是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
 
-### Everything changed for the oil, AI and bond trades over the past month
-- 来源：CNBC World | 时间：2026-11-01T22:27:40+00:00 | 分类：宏观 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html
-- 摘要：原文要点：The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.
+### Crude prices slide as investors brace for a big week
+- 来源：CNBC Technology | 时间：2026-11-02T12:57:06+00:00 | 分类：能源 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/11/02/crude-prices-crater-investors-brace-for-big-week.html
+- 摘要：原文要点：Futures push higher ahead of Apple, the midterms and jobs data due Friday
 - 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
-
-美联储利率：降息预期升温有利于全球风险偏好和成长股估值，也通常支撑黄金；加息或高利率维持会压制高估值资产和高负债行业。A股映射需结合北向资金、人民币汇率和国内政策节奏。
-- 正向方向：油气开采、油服工程、煤化工替代、黄金、成长风格、创新药、半导体
-- 负向方向：航空、物流、化纤、塑料制品、高负债行业、房地产链
+- 正向方向：油气开采、油服工程、煤化工替代
+- 负向方向：航空、物流、化纤、塑料制品
 - 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
-- A股观察映射：油气开采、油服工程、黄金、成长风格、创新药、航空
-- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代、黄金、成长风格的情绪强弱，同时跟踪航空、物流、化纤、塑料制品、高负债行业是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
+- A股观察映射：油气开采、油服工程、航空
+- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代的情绪强弱，同时跟踪航空、物流、化纤、塑料制品是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
 
 ### How Companies Are Using NVIDIA DSX to Break the Power Bottleneck
 - 来源：Nvidia Blog | 时间：2026-10-22T05:00:25+00:00 | 分类：AI算力 | 影响级别：高
@@ -57,22 +67,56 @@
 
 
 ## 二、宏观与汇率
-### Everything changed for the oil, AI and bond trades over the past month
-- 来源：CNBC World | 时间：2026-11-01T22:27:40+00:00 | 分类：宏观 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html
-- 摘要：原文要点：The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.
-- 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
-
-美联储利率：降息预期升温有利于全球风险偏好和成长股估值，也通常支撑黄金；加息或高利率维持会压制高估值资产和高负债行业。A股映射需结合北向资金、人民币汇率和国内政策节奏。
-- 正向方向：油气开采、油服工程、煤化工替代、黄金、成长风格、创新药、半导体
-- 负向方向：航空、物流、化纤、塑料制品、高负债行业、房地产链
-- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
-- A股观察映射：油气开采、油服工程、黄金、成长风格、创新药、航空
-- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代、黄金、成长风格的情绪强弱，同时跟踪航空、物流、化纤、塑料制品、高负债行业是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+### Defense, healthcare, crypto and AI: How the midterm election could affect stocks
+- 来源：CNBC World | 时间：2026-11-02T13:23:58+00:00 | 分类：宏观 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html
+- 摘要：原文要点：Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.
+- 产业链推演：美元指数：美元走强通常压制以美元计价的大宗商品和黄金，同时增加进口成本与美元债压力；出口链可能因人民币相对走弱获得结算优势。需观察人民币中间价、外资流向和企业套保情况。
+- 正向方向：出口链、银行外汇业务
+- 负向方向：航空、造纸、美元负债较高企业、黄金
+- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
+- A股观察映射：出口链、航空、造纸、黄金
+- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内出口链、银行外汇业务的情绪强弱，同时跟踪航空、造纸、美元负债较高企业、黄金是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
 
+### Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping
+- 来源：MarketWatch | 时间：2026-11-02T15:59:00+00:00 | 分类：宏观 | 影响级别：中
+- 链接：https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories
+- 摘要：原文要点：U.S. manufacturers in October pumped out the most goods — plastics, computers, electrical equipment and so forth — in five years as a growing economy and a revolution in artificial intelligence stoked demand.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Want guaranteed income in retirement without an annuity? Try laddering I-bonds.
+- 来源：MarketWatch | 时间：2026-11-02T15:32:00+00:00 | 分类：宏观 | 影响级别：中
+- 链接：https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories
+- 摘要：原文要点：The new 5.51% rate might entice you to use I-bonds to create inflation-proof income in retirement.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Apollo launches $11 billion private credit platform, backed by Abu Dhabi
+- 来源：CNBC World | 时间：2026-11-02T09:11:02+00:00 | 分类：汇率 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html
+- 摘要：原文要点：Apollo has launched a 10 billion euro European private credit platform backed by major global investors.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，出口、航空、造纸等方向先反应；价格 1-2周，套保、进口成本和结算价格开始调整；经营 1-3个月，订单利润率和费用端体现；业绩 1个季度以上，汇兑损益需财报验证
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，出口、航空、造纸等方向先反应内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
 ### Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules
-- 来源：CNBC World | 时间：2026-10-31T13:04:29+00:00 | 分类：汇率 | 影响级别：中
+- 来源：CNBC Technology | 时间：2026-10-31T13:04:29+00:00 | 分类：汇率 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html
 - 摘要：原文要点：Interest groups tied to cryptocurrency are spending millions to tilt the midterm elections. They had mixed success in 2024
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
@@ -83,10 +127,94 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，出口、航空、造纸等方向先反应内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
+### Stock market after midterm elections: What S&P 500 history shows
+- 来源：CNBC World | 时间：2026-11-02T16:48:28+00:00 | 分类：海外股市 | 影响级别：低
+- 链接：https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html
+- 摘要：原文要点：Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3；价格 1-2周；经营 1-3个月；业绩 1个季度以上
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Wall Street's Fear Index is doing something strange. Here's what it means for stocks
+- 来源：CNBC World | 时间：2026-11-02T15:30:41+00:00 | 分类：海外股市 | 影响级别：低
+- 链接：https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html
+- 摘要：原文要点：VIX deemed "unreactive" by options traders
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3；价格 1-2周；经营 1-3个月；业绩 1个季度以上
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### 6 dividend stocks for investors who want to cut their exposure to the S&P 500
+- 来源：MarketWatch | 时间：2026-11-02T16:56:00+00:00 | 分类：海外股市 | 影响级别：低
+- 链接：https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories
+- 摘要：原文要点：Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
 
 ## 三、AI算力与半导体
+### DOJ asks Supreme Court to block California counting disputed mail-in ballots
+- 来源：CNBC World | 时间：2026-11-02T17:13:15+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html
+- 摘要：原文要点：The Department of Justice's request to the Supreme Court in the California case comes as it appeals dismissal of a lawsuit over Alaska's Senate election.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell
+- 来源：CNBC World | 时间：2026-11-02T16:59:45+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html
+- 摘要：原文要点：The AI infrastructure deal is expected to close during the first half of 2028.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe: Reports
+- 来源：CNBC World | 时间：2026-11-02T16:42:12+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html
+- 摘要：原文要点：Judge Zia Faruqui suggested the prosecution of ex-officials Nikki Floris and Bradley Benavides was rushed to come out ahead of the midterm election.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment
+- 来源：CNBC World | 时间：2026-11-02T11:02:08+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html
+- 摘要：原文要点：OpenAI signed four Abu Dhabi agreements spanning energy, government and investment as Sam Altman met the emirate’s crown prince.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
 ### South Korea targets 'world's highest performance' sovereign AI model in record new budget
-- 来源：CNBC World | 时间：2026-11-02T06:02:03+00:00 | 分类：AI算力 | 影响级别：中
+- 来源：CNBC Technology | 时间：2026-11-02T06:02:03+00:00 | 分类：AI算力 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html
 - 摘要：原文要点：The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
@@ -98,7 +226,7 @@
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
 ### Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships
-- 来源：CNBC World | 时间：2026-11-02T02:58:53+00:00 | 分类：AI算力 | 影响级别：中
+- 来源：CNBC Technology | 时间：2026-11-02T02:58:53+00:00 | 分类：AI算力 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html
 - 摘要：原文要点：OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
@@ -110,33 +238,9 @@
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
 ### Why AI is boosting Meta's ad business while hurting Google search
-- 来源：CNBC World | 时间：2026-11-01T14:31:29+00:00 | 分类：AI算力 | 影响级别：中
+- 来源：CNBC Technology | 时间：2026-11-01T14:31:29+00:00 | 分类：AI算力 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html
 - 摘要：原文要点：The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### How to start an art collection on any budget
-- 来源：CNBC World | 时间：2026-10-31T12:58:43+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/10/31/how-to-invest-in-art-collecting.html
-- 摘要：原文要点：A guide to beginning an art collection, including how to research artists, what to buy, and where to connect, from galleries to fairs to auction houses.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice
-- 来源：CNBC World | 时间：2026-10-31T23:56:40+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html
-- 摘要：原文要点：President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -157,36 +261,46 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution
-- 来源：CNBC Technology | 时间：2026-10-31T20:12:37+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html
-- 摘要：原文要点：The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Stocks started the week with promise but ended in despair. Our take on the big reversal
-- 来源：CNBC Technology | 时间：2026-10-31T15:37:11+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/investingclub/2026/10/31/stocks-started-the-week-with-promise-but-ended-in-despair.html
-- 摘要：原文要点：Big Tech earnings reignited AI spending fears, sending investors into defensive stocks.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
 
 ## 四、能源与大宗商品
-暂无高相关消息。
+### Crude oil prices plunge more than 7% on Iran peace talk hopes ahead of U.S. midterms
+- 来源：CNBC World | 时间：2026-11-02T17:14:53+00:00 | 分类：能源 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html
+- 摘要：原文要点：Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions
+- 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
+- 正向方向：油气开采、油服工程、煤化工替代
+- 负向方向：航空、物流、化纤、塑料制品
+- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
+- A股观察映射：油气开采、油服工程、航空
+- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代的情绪强弱，同时跟踪航空、物流、化纤、塑料制品是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
+
+### Crude prices slide as investors brace for a big week
+- 来源：CNBC Technology | 时间：2026-11-02T12:57:06+00:00 | 分类：能源 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/11/02/crude-prices-crater-investors-brace-for-big-week.html
+- 摘要：原文要点：Futures push higher ahead of Apple, the midterms and jobs data due Friday
+- 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
+- 正向方向：油气开采、油服工程、煤化工替代
+- 负向方向：航空、物流、化纤、塑料制品
+- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
+- A股观察映射：油气开采、油服工程、航空
+- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代的情绪强弱，同时跟踪航空、物流、化纤、塑料制品是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
 
 
 ## 五、地缘风险
+### Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps
+- 来源：CNBC World | 时间：2026-11-02T15:28:46+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html
+- 摘要：原文要点：Russia and Ukraine both report cyberattacks on their alerting systems, as strikes continue across the countries.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
 ### Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes
 - 来源：CNBC World | 时间：2026-11-02T02:39:35+00:00 | 分类：地缘 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html
@@ -199,46 +313,22 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy
-- 来源：CNBC World | 时间：2026-11-02T05:04:26+00:00 | 分类：地缘 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html
-- 摘要：原文要点：Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions
-- 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
-- 正向方向：油气开采、油服工程、煤化工替代
-- 负向方向：航空、物流、化纤、塑料制品
-- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
-- A股观察映射：油气开采、油服工程、航空
-- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代的情绪强弱，同时跟踪航空、物流、化纤、塑料制品是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
+### Ryanair CEO warns fares could rise by up to 20% next year
+- 来源：CNBC World | 时间：2026-11-02T14:14:18+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html
+- 摘要：原文要点：Ryanair's CEO Michael O'Leary told CNBC that European airlines may have "significantly higher airfares" of up to 20% next year as fuel costs rise.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
 ### For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy
 - 来源：CNBC Technology | 时间：2026-11-01T16:34:43+00:00 | 分类：地缘 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html
 - 摘要：原文要点：As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Humans are still doing the work behind some AI agents
-- 来源：CNBC Technology | 时间：2026-10-31T12:00:01+00:00 | 分类：地缘 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html
-- 摘要：原文要点：AI agents from startups including Dazzle, Duckbill and Wajo still rely on human workers for calls and other real-world tasks when software falls short.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Meta outlook revised downward by S&P on cash flow and capex concerns
-- 来源：CNBC Technology | 时间：2026-10-30T22:42:26+00:00 | 分类：地缘 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html
-- 摘要：原文要点：Meta has been given a negative outlook by S&amp;P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -283,9 +373,21 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
+### NVIDIA Open Models Power a New Wave of European Public Sector Projects
+- 来源：Nvidia Blog | 时间：2026-10-22T05:00:02+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://blogs.nvidia.com/blog/european-public-sector-open-models/
+- 摘要：原文要点：Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure 
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
 
 ## 六、A股可能受影响方向
-油气开采、油服工程、煤化工替代、航空、物流、化纤、塑料制品、炼化、黄金、成长风格、创新药、半导体、高负债行业、房地产链、银行、电力设备、变压器、储能、UPS、温控、高耗能IDC、云计算、航运、港口、造船、出口制造、跨境电商
+油气开采、油服工程、煤化工替代、航空、物流、化纤、塑料制品、炼化、出口链、银行外汇业务、造纸、美元负债较高企业、黄金、跨境电商、电力设备、变压器、储能、UPS、温控、高耗能IDC、云计算、航运、港口、造船、出口制造
 
 ## 七、明日观察重点
 - 验证国际期货价格、美元指数、美债收益率与A股相关板块是否同向确认。

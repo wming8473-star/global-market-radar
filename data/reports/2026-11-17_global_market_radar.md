@@ -5,34 +5,10 @@
 > 本报告基于公开 RSS 信息和本地规则生成，只做产业链观察和风险提示，不构成投资建议。
 
 ## 一、高影响事件
-### Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz
-- 来源：CNBC World | 时间：2026-11-17T05:51:13+00:00 | 分类：地缘 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html
-- 摘要：原文要点：Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.
-- 产业链推演：航运：运价上涨利好航运公司和部分港口，但出口制造和跨境电商面临物流成本和交付周期压力。地缘扰动导致绕航时，集运和油运弹性更强；需求复苏驱动时，港口吞吐和外贸链条更值得跟踪。
-- 正向方向：航运、港口、造船
-- 负向方向：出口制造、跨境电商
-- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
-- A股观察映射：航运、港口、造船
-- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内航运、港口、造船的情绪强弱，同时跟踪出口制造、跨境电商是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
-
-### Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means
-- 来源：CNBC World | 时间：2026-11-17T00:42:33+00:00 | 分类：宏观 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html
-- 摘要：原文要点：Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.
-- 产业链推演：美联储利率：降息预期升温有利于全球风险偏好和成长股估值，也通常支撑黄金；加息或高利率维持会压制高估值资产和高负债行业。A股映射需结合北向资金、人民币汇率和国内政策节奏。
-- 正向方向：黄金、成长风格、创新药、半导体
-- 负向方向：高负债行业、房地产链
-- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
-- A股观察映射：黄金、成长风格、创新药
-- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内黄金、成长风格、创新药、半导体的情绪强弱，同时跟踪高负债行业、房地产链是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
-
-### U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball
-- 来源：MarketWatch | 时间：2026-11-16T22:46:00+00:00 | 分类：AI算力 | 影响级别：高
-- 链接：https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories
-- 摘要：原文要点：The dollar recently climbed to its strongest level in a year and a half.
+### Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground
+- 来源：CNBC World | 时间：2026-11-17T13:28:32+00:00 | 分类：AI算力 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html
+- 摘要：原文要点：Data center policy has become a key election issue in Spain, creating an obstacle to existing deals and potentially costing billions of dollars in investment.
 - 产业链推演：美元指数：美元走强通常压制以美元计价的大宗商品和黄金，同时增加进口成本与美元债压力；出口链可能因人民币相对走弱获得结算优势。需观察人民币中间价、外资流向和企业套保情况。
 - 正向方向：出口链、银行外汇业务
 - 负向方向：航空、造纸、美元负债较高企业、黄金
@@ -41,20 +17,20 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内出口链、银行外汇业务的情绪强弱，同时跟踪航空、造纸、美元负债较高企业、黄金是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
 
+### ‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and invest in real estate?
+- 来源：MarketWatch | 时间：2026-11-17T15:15:00+00:00 | 分类：AI算力 | 影响级别：高
+- 链接：https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories
+- 摘要：原文要点：“Real estate here in Florida seems to be presenting some interesting opportunities.”
+- 产业链推演：原油：原油上涨通常先抬升能源通胀预期，上游油气资源与油服订单情绪受益；中游炼化需看库存收益、裂解价差和成品油调价窗口；下游航空、物流、化纤和塑料制品面临燃料或原料成本压力。若油价由供给冲击驱动，情绪反应更快；若由需求改善驱动，下游压力可能被销量修复部分抵消。
+- 正向方向：油气开采、油服工程、煤化工替代
+- 负向方向：航空、物流、化纤、塑料制品
+- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
+- A股观察映射：油气开采、油服工程、航空
+- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内油气开采、油服工程、煤化工替代的情绪强弱，同时跟踪航空、物流、化纤、塑料制品是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
+
 
 ## 二、宏观与汇率
-### Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means
-- 来源：CNBC World | 时间：2026-11-17T00:42:33+00:00 | 分类：宏观 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html
-- 摘要：原文要点：Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.
-- 产业链推演：美联储利率：降息预期升温有利于全球风险偏好和成长股估值，也通常支撑黄金；加息或高利率维持会压制高估值资产和高负债行业。A股映射需结合北向资金、人民币汇率和国内政策节奏。
-- 正向方向：黄金、成长风格、创新药、半导体
-- 负向方向：高负债行业、房地产链
-- 影响周期：情绪 T+0至T+2，权益估值和成长风格先定价；价格 1-4周，美元、美债、黄金和全球资金流重新平衡；经营 1-2个季度，融资成本和需求侧逐步反馈；业绩 2个季度以上，企业利润影响滞后确认
-- A股观察映射：黄金、成长风格、创新药
-- 交易观察：仅作观察映射：短线关注T+0至T+2，权益估值和成长风格先定价内黄金、成长风格、创新药、半导体的情绪强弱，同时跟踪高负债行业、房地产链是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
-
 ### CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off
 - 来源：CNBC World | 时间：2026-11-16T23:00:01+00:00 | 分类：汇率 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html
@@ -67,22 +43,10 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，出口、航空、造纸等方向先反应内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao
-- 来源：CNBC World | 时间：2026-11-16T20:44:24+00:00 | 分类：海外股市 | 影响级别：低
-- 链接：https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html
-- 摘要：原文要点：Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+3；价格 1-2周；经营 1-3个月；业绩 1个季度以上
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+3内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### Anthropic IPO guide: Everything you need to know
-- 来源：CNBC Technology | 时间：2026-11-16T18:27:56+00:00 | 分类：海外股市 | 影响级别：低
-- 链接：https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html
-- 摘要：原文要点：Anthropic is set to start trading this week on the Nasdaq under the ticker symbol ANT.
+### Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC
+- 来源：CNBC World | 时间：2026-11-17T14:34:48+00:00 | 分类：海外股市 | 影响级别：低
+- 链接：https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html
+- 摘要：原文要点：Anthropic is slated to list on the Nasdaq under the ticker symbol "ANT" and start trading on Nov. 19.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -93,10 +57,10 @@
 
 
 ## 三、AI算力与半导体
-### Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access
-- 来源：CNBC World | 时间：2026-11-16T22:37:45+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html
-- 摘要：原文要点：Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.
+### Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation
+- 来源：CNBC World | 时间：2026-11-17T16:30:19+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html
+- 摘要：原文要点：He said he had seen support from investors and employees was willing to come back as CEO.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -117,10 +81,10 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024
-- 来源：CNBC World | 时间：2026-11-17T06:59:42+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html
-- 摘要：原文要点：The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.
+### Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO
+- 来源：CNBC World | 时间：2026-11-17T13:58:07+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html
+- 摘要：原文要点：Isomorphic Labs is looking to develop new medicines using AI.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -129,10 +93,10 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### How Jensen Huang scandal makes Congress a bigger risk to U.S.-China relations
-- 来源：CNBC World | 时间：2026-11-17T06:51:40+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/17/jensen-nvidia-trump-xi-tech-curbs-congress.html
-- 摘要：原文要点：Jensen Huang's alleged affair with a woman suspected by the U.S. intelligence to be a Chinese spy has spurred efforts seeking stricter curbs on tech exports to Beijing.
+### Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access
+- 来源：CNBC World | 时间：2026-11-17T10:08:32+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html
+- 摘要：原文要点：Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -141,10 +105,22 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business
-- 来源：CNBC World | 时间：2026-11-15T08:34:46+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html
-- 摘要：原文要点：The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.
+### Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground
+- 来源：CNBC World | 时间：2026-11-17T13:28:32+00:00 | 分类：AI算力 | 影响级别：高
+- 链接：https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html
+- 摘要：原文要点：Data center policy has become a key election issue in Spain, creating an obstacle to existing deals and potentially costing billions of dollars in investment.
+- 产业链推演：美元指数：美元走强通常压制以美元计价的大宗商品和黄金，同时增加进口成本与美元债压力；出口链可能因人民币相对走弱获得结算优势。需观察人民币中间价、外资流向和企业套保情况。
+- 正向方向：出口链、银行外汇业务
+- 负向方向：航空、造纸、美元负债较高企业、黄金
+- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
+- A股观察映射：出口链、航空、造纸、黄金
+- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内出口链、银行外汇业务的情绪强弱，同时跟踪航空、造纸、美元负债较高企业、黄金是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：产业链传导存在库存、长协价格、套保和订单确认滞后，不能直接等同于上市公司业绩变化。
+
+### South Korea will suspend all aircraft operation for 35 minutes and markets will open late. Here’s why
+- 来源：CNBC World | 时间：2026-11-17T10:49:36+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/south-korea-suspend-aircraft-exam-markets.html
+- 摘要：原文要点：South Korea will suspend aircraft takeoffs and landings nationwide for 35 minutes on Thursday to minimize noise during a college entrance exam.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -153,10 +129,10 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade
-- 来源：CNBC World | 时间：2026-11-16T23:23:47+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html
-- 摘要：原文要点：CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom.
+### Nvidia stock falls ahead of earnings as company reels from Huang resignation
+- 来源：CNBC World | 时间：2026-11-17T16:49:12+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html
+- 摘要：原文要点：Investors have been weighing the fallout from former CEO Jensen Huang's resignation.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -165,22 +141,10 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### United Airlines resolves system outage that affected departing flights
-- 来源：CNBC World | 时间：2026-11-17T00:00:49+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html
-- 摘要：原文要点：The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+2，主题情绪和供应链预期先升温；价格 2-4周，订单、排产、招标和渠道数据决定持续性；经营 1-2个季度，供应链收入确认逐步落地；业绩 2个季度以上，需观察量产节奏和利润率
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+2，主题情绪和供应链预期先升温内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### OpenAI inks agreements with four independent evaluators to boost company's safety work
-- 来源：CNBC Technology | 时间：2026-11-16T21:54:18+00:00 | 分类：AI算力 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html
-- 摘要：原文要点：Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.
+### Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout
+- 来源：CNBC World | 时间：2026-11-17T15:22:45+00:00 | 分类：AI算力 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html
+- 摘要：原文要点：Steve Eisman is appearing on "Squawk Box" on Tuesday.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -195,20 +159,56 @@
 
 
 ## 五、地缘风险
-### Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz
-- 来源：CNBC World | 时间：2026-11-17T05:51:13+00:00 | 分类：地缘 | 影响级别：高
-- 链接：https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html
-- 摘要：原文要点：Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.
-- 产业链推演：航运：运价上涨利好航运公司和部分港口，但出口制造和跨境电商面临物流成本和交付周期压力。地缘扰动导致绕航时，集运和油运弹性更强；需求复苏驱动时，港口吞吐和外贸链条更值得跟踪。
-- 正向方向：航运、港口、造船
-- 负向方向：出口制造、跨境电商
-- 影响周期：情绪 T+0至T+3，资源与成本敏感板块先反应；价格 1-2周，现货报价、长协谈判和库存重估开始体现；经营 1-3个月，毛利率和订单价格逐步传导；业绩 1个季度以上，需要财报验证成本或利润弹性
-- A股观察映射：航运、港口、造船
-- 交易观察：仅作观察映射：短线关注T+0至T+3，资源与成本敏感板块先反应内航运、港口、造船的情绪强弱，同时跟踪出口制造、跨境电商是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：宏观变量反转较快，需警惕政策表态、美元利率和风险偏好变化导致映射失效。
+### Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'
+- 来源：CNBC World | 时间：2026-11-17T16:47:52+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html
+- 摘要：原文要点："This is why they can't have a nuclear weapon," Trump added, reiterating his main defense for launching the Iran war.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank
+- 来源：CNBC World | 时间：2026-11-17T16:39:43+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html
+- 摘要：原文要点：Trump threatens Iran and responds to a tax leak report as his Asia trip begins.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’
+- 来源：CNBC World | 时间：2026-11-17T12:48:14+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html
+- 摘要：原文要点：Ukraine attacked the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day, delivering a symbolic blow to President Vladimir Putin.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
+
+### Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets
+- 来源：CNBC World | 时间：2026-11-17T14:24:10+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html
+- 摘要：原文要点：A 15-million-file leak details alleged control failures at Deutsche Bank, including Epstein-linked payments and a Trump tax blunder.
+- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
+- 正向方向：无
+- 负向方向：无
+- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
+- A股观察映射：暂无明确映射
+- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
+- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
 ### Aschenbrenner’s Situational Awareness made AI bets again before October rout
-- 来源：CNBC World | 时间：2026-11-16T23:05:12+00:00 | 分类：地缘 | 影响级别：中
+- 来源：CNBC Technology | 时间：2026-11-16T23:05:12+00:00 | 分类：地缘 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html
 - 摘要：原文要点：Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
@@ -220,7 +220,7 @@
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
 ### JPMorgan Chase says temporary software bug is affecting consumer banking
-- 来源：CNBC World | 时间：2026-11-16T22:14:47+00:00 | 分类：地缘 | 影响级别：中
+- 来源：CNBC Technology | 时间：2026-11-16T22:14:47+00:00 | 分类：地缘 | 影响级别：中
 - 链接：https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html
 - 摘要：原文要点：CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
@@ -231,22 +231,10 @@
 - 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
 - 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
 
-### ‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion
-- 来源：CNBC World | 时间：2026-11-16T09:14:46+00:00 | 分类：地缘 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html
-- 摘要：原文要点：Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools
-- 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
-- 正向方向：无
-- 负向方向：无
-- 影响周期：情绪 T+0至T+3，避险和风险偏好快速切换；价格 数日至2周，能源、黄金、航运和汇率价格波动放大；经营 1-3个月，物流、订单和成本扰动显现；业绩 1个季度以上，需确认冲突持续时间和制裁影响
-- A股观察映射：暂无明确映射
-- 交易观察：仅作观察映射：短线关注T+0至T+3，避险和风险偏好快速切换内相关方向的情绪强弱，同时跟踪成本承压方向是否出现成本、订单或汇率压力。若后续价格与成交量不能配合，主题持续性需下修。
-- 风险提示：未命中明确规则，可能只是孤立消息；需等待权威数据、价格走势或公司公告确认。
-
-### China confirms Xi-Trump-Putin historic summit. What will be on the agenda?
-- 来源：CNBC World | 时间：2026-11-16T08:38:16+00:00 | 分类：地缘 | 影响级别：中
-- 链接：https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html
-- 摘要：原文要点：The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.
+### Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chinese rivals
+- 来源：MarketWatch | 时间：2026-11-17T15:39:00+00:00 | 分类：地缘 | 影响级别：中
+- 链接：https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-e20dfb79?mod=mw_rss_topstories
+- 摘要：原文要点：The Trump administration is reportedly planning to move forward on banning imports of Chinese optical transceivers.
 - 产业链推演：暂未命中明确产业链规则，需结合后续价格、订单或政策数据继续观察。
 - 正向方向：无
 - 负向方向：无
@@ -269,7 +257,7 @@
 
 
 ## 六、A股可能受影响方向
-航运、港口、造船、出口制造、跨境电商、物流、黄金、成长风格、创新药、半导体、高负债行业、房地产链、银行、出口链、银行外汇业务、航空、造纸、美元负债较高企业
+出口链、银行外汇业务、航空、造纸、美元负债较高企业、黄金、跨境电商、油气开采、油服工程、煤化工替代、物流、化纤、塑料制品、炼化
 
 ## 七、明日观察重点
 - 验证国际期货价格、美元指数、美债收益率与A股相关板块是否同向确认。
